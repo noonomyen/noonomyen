@@ -1,0 +1,138 @@
+{
+    "top_lang": [
+        [
+            "JavaScript",
+            139294,
+            41.194910893314486
+        ],
+        [
+            "HTML",
+            96850,
+            28.642490846824042
+        ],
+        [
+            "Python",
+            36733,
+            10.86344466986461
+        ],
+        [
+            "Shell",
+            27662,
+            8.180780400669557
+        ],
+        [
+            "C++",
+            18363,
+            5.430687242335878
+        ],
+        [
+            "PHP",
+            9011,
+            2.664919824684888
+        ],
+        [
+            "CSS",
+            3260,
+            0.9641148183856104
+        ],
+        [
+            "Vim Script",
+            2513,
+            0.743196484234061
+        ],
+        [
+            "Lua",
+            1876,
+            0.55480963168448
+        ],
+        [
+            "Dockerfile",
+            1467,
+            0.4338516682735247
+        ],
+        [
+            "C",
+            1105,
+            0.3267935197288649
+        ]
+    ],
+    "lang_stats": {
+        "Vim Script": {
+            "size": 2513,
+            "full_size": 2513,
+            "percent": 100.0,
+            "color": "#199f4b"
+        },
+        "Shell": {
+            "size": 27662,
+            "full_size": 29664,
+            "percent": 93.25107874865157,
+            "color": "#89e051"
+        },
+        "JavaScript": {
+            "size": 139294,
+            "full_size": 139294,
+            "percent": 100.0,
+            "color": "#f1e05a"
+        },
+        "CSS": {
+            "size": 3260,
+            "full_size": 3260,
+            "percent": 100.0,
+            "color": "#563d7c"
+        },
+        "HTML": {
+            "size": 96850,
+            "full_size": 96850,
+            "percent": 100.0,
+            "color": "#e34c26"
+        },
+        "Python": {
+            "size": 36733,
+            "full_size": 36733,
+            "percent": 100.0,
+            "color": "#3572A5"
+        },
+        "C++": {
+            "size": 18363,
+            "full_size": 18363,
+            "percent": 100.0,
+            "color": "#f34b7d"
+        },
+        "C": {
+            "size": 1105,
+            "full_size": 1105,
+            "percent": 100.0,
+            "color": "#555555"
+        },
+        "Lua": {
+            "size": 1876,
+            "full_size": 1876,
+            "percent": 100.0,
+            "color": "#000080"
+        },
+        "PHP": {
+            "size": 9011,
+            "full_size": 9011,
+            "percent": 100.0,
+            "color": "#4F5D95"
+        },
+        "Dockerfile": {
+            "size": 1467,
+            "full_size": 1467,
+            "percent": 100.0,
+            "color": "#384d54"
+        }
+    },
+    "total_stars_earned": 2,
+    "total_commits": 43,
+    "total_issues": 0,
+    "total_forks_earned": 0,
+    "total_repos": 9,
+    "total_forks_repos": 1,
+    "pull_request": {
+        "open": 0,
+        "merged": 1,
+        "closed": 1
+    }
+}
