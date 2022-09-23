@@ -57,18 +57,6 @@
         ]
     ],
     "lang_stats": {
-        "Vim Script": {
-            "size": 2513,
-            "full_size": 2513,
-            "percent": 100.0,
-            "color": "#199f4b"
-        },
-        "Shell": {
-            "size": 27662,
-            "full_size": 29664,
-            "percent": 93.25107874865157,
-            "color": "#89e051"
-        },
         "JavaScript": {
             "size": 139294,
             "full_size": 139294,
@@ -87,11 +75,35 @@
             "percent": 100.0,
             "color": "#e34c26"
         },
+        "Shell": {
+            "size": 27662,
+            "full_size": 29664,
+            "percent": 93.25107874865157,
+            "color": "#89e051"
+        },
+        "PHP": {
+            "size": 9011,
+            "full_size": 9011,
+            "percent": 100.0,
+            "color": "#4F5D95"
+        },
+        "Lua": {
+            "size": 1876,
+            "full_size": 1876,
+            "percent": 100.0,
+            "color": "#000080"
+        },
         "Python": {
             "size": 36733,
             "full_size": 36733,
             "percent": 100.0,
             "color": "#3572A5"
+        },
+        "Dockerfile": {
+            "size": 1467,
+            "full_size": 1467,
+            "percent": 100.0,
+            "color": "#384d54"
         },
         "C++": {
             "size": 18363,
@@ -105,27 +117,15 @@
             "percent": 100.0,
             "color": "#555555"
         },
-        "Lua": {
-            "size": 1876,
-            "full_size": 1876,
+        "Vim Script": {
+            "size": 2513,
+            "full_size": 2513,
             "percent": 100.0,
-            "color": "#000080"
-        },
-        "PHP": {
-            "size": 9011,
-            "full_size": 9011,
-            "percent": 100.0,
-            "color": "#4F5D95"
-        },
-        "Dockerfile": {
-            "size": 1467,
-            "full_size": 1467,
-            "percent": 100.0,
-            "color": "#384d54"
+            "color": "#199f4b"
         }
     },
     "total_stars_earned": 2,
-    "total_commits": 43,
+    "total_commits": 35,
     "total_issues": 0,
     "total_forks_earned": 0,
     "total_repos": 9,
