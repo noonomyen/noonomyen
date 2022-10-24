@@ -64,20 +64,20 @@
     "lang_stats": {
         "JavaScript": {
             "size": 140659,
-            "full_size": 141682,
-            "percent": 99.27796050309848,
+            "full_size": 142023,
+            "percent": 99.03959217873162,
             "color": "#f1e05a"
         },
         "CSS": {
             "size": 5861,
-            "full_size": 9641,
-            "percent": 60.79244891608754,
+            "full_size": 10901,
+            "percent": 53.76570956792954,
             "color": "#563d7c"
         },
         "HTML": {
             "size": 128685,
-            "full_size": 171054,
-            "percent": 75.23062892419937,
+            "full_size": 185177,
+            "percent": 69.49297158934425,
             "color": "#e34c26"
         },
         "Shell": {
@@ -100,8 +100,8 @@
         },
         "Python": {
             "size": 77895,
-            "full_size": 79644,
-            "percent": 97.80397770076841,
+            "full_size": 80227,
+            "percent": 97.09324790905805,
             "color": "#3572A5"
         },
         "Dockerfile": {
@@ -130,13 +130,13 @@
         },
         "Go": {
             "size": 556,
-            "full_size": 1390,
-            "percent": 40.0,
+            "full_size": 1668,
+            "percent": 33.33333333333333,
             "color": "#00ADD8"
         }
     },
     "total_stars_earned": 1,
-    "total_commits": 45,
+    "total_commits": 46,
     "total_issues": 0,
     "total_forks_earned": 0,
     "total_repos": 10,
