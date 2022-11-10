@@ -67,7 +67,7 @@
        id="text1226-1"
        style="font-size:80px;line-height:1.1;white-space:pre;shape-inside:url(#rect1228);display:inline;fill:#cccccc"
        transform="matrix(0.50006611,0,0,0.50006611,1.0001322,-10.001322)">
-       <tspan x="80" y="316.98643" id="tspan3747" >Total Commits :  56</tspan>
+       <tspan x="80" y="316.98643" id="tspan3747" >Total Commits :  58</tspan>
        <tspan x="80" y="404.98643" id="tspan3749" >Total Issues :  0</tspan>
        <tspan x="80" y="492.98643" id="tspan3751" >Total Repos :  10</tspan>
        <tspan x="80" y="580.98643" id="tspan3753" >Total Forks Repos :  1</tspan>
@@ -80,22 +80,22 @@
        id="text1226-2"
        style="font-size:70px;line-height:1.2;white-space:pre;shape-inside:url(#rect1228-1);display:inline;fill:#cccccc"
        transform="matrix(0.50006611,0,0,0.50006611,661.59932,80.072654)">
-       <tspan x="80" y="311.40419" id="tspan3761" >JavaScript  42.21%</tspan>
-       <tspan x="80" y="392.07082" id="tspan3763" >HTML  26.23%</tspan>
-       <tspan x="80" y="472.73745" id="tspan3765" >Python  8.54%</tspan>
-       <tspan x="80" y="553.40407" id="tspan3767" >CSS  6.57%</tspan>
-       <tspan x="80" y="634.0707" id="tspan3769" >Shell  6.17%</tspan>
+       <tspan x="80" y="311.40419" id="tspan3761" >JavaScript  41.84%</tspan>
+       <tspan x="80" y="392.07082" id="tspan3763" >HTML  25.99%</tspan>
+       <tspan x="80" y="472.73745" id="tspan3765" >Python  8.46%</tspan>
+       <tspan x="80" y="553.40407" id="tspan3767" >CSS  6.51%</tspan>
+       <tspan x="80" y="634.0707" id="tspan3769" >Shell  6.31%</tspan>
     </text>
     <text
        xml:space="preserve"
        id="text1226-3"
        style="font-size:70px;line-height:1.2;white-space:pre;shape-inside:url(#rect1228-1-9);display:inline;fill:#cccccc"
        transform="matrix(0.50006611,0,0,0.50006611,1054.1056,80.781552)">
-       <tspan x="80" y="311.40419" id="tspan3771" >C++  4.10%</tspan>
-       <tspan x="80" y="392.07082" id="tspan3773" >Go  2.62%</tspan>
-       <tspan x="80" y="472.73745" id="tspan3775" >PHP  2.01%</tspan>
-       <tspan x="80" y="553.40407" id="tspan3777" >Vim Script  0.57%</tspan>
-       <tspan x="80" y="634.0707" id="tspan3779" >Lua  0.42%</tspan>
+       <tspan x="80" y="311.40419" id="tspan3771" >C++  4.06%</tspan>
+       <tspan x="80" y="392.07082" id="tspan3773" >Go  2.59%</tspan>
+       <tspan x="80" y="472.73745" id="tspan3775" >PHP  1.99%</tspan>
+       <tspan x="80" y="553.40407" id="tspan3777" >Vim Script  1.25%</tspan>
+       <tspan x="80" y="634.0707" id="tspan3779" >Lua  0.41%</tspan>
     </text>
     <text
        xml:space="preserve"
@@ -113,16 +113,16 @@
        <tspan sodipodi:role="line" id="tspan1796" x="260.89774" y="440.4949" style="stroke-width:0.500066">(Open / Merged / Closed)</tspan>
     </text>
     <rect style="fill:#cccccc;stroke-width:0.500066" id="rect2081-11" width="750.09918" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#000080;stroke-width:0.500066" id="rect2081-1" width="745.79451" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#199f4b;stroke-width:0.500066" id="rect2081-2" width="742.65471" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#4F5D95;stroke-width:0.500066" id="rect2081-3" width="738.36677" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#00ADD8;stroke-width:0.500066" id="rect2081-4" width="723.28536" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#f34b7d;stroke-width:0.500066" id="rect2081-5" width="703.65324" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#89e051;stroke-width:0.500066" id="rect2081-6" width="672.91969" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#563d7c;stroke-width:0.500066" id="rect2081-7" width="626.65283" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#3572A5;stroke-width:0.500066" id="rect2081-8" width="577.40015" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#e34c26;stroke-width:0.500066" id="rect2081-9" width="513.36062" height="40.005287" x="680.22748" y="127.19685" />
-    <rect style="fill:#f1e05a;stroke-width:0.500066" id="rect2081-10" width="316.64111" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#000080;stroke-width:0.500066" id="rect2081-1" width="745.83240" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#199f4b;stroke-width:0.500066" id="rect2081-2" width="742.72024" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#4F5D95;stroke-width:0.500066" id="rect2081-3" width="733.35886" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#00ADD8;stroke-width:0.500066" id="rect2081-4" width="718.41020" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#f34b7d;stroke-width:0.500066" id="rect2081-5" width="698.95089" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#89e051;stroke-width:0.500066" id="rect2081-6" width="668.48786" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#563d7c;stroke-width:0.500066" id="rect2081-7" width="621.13687" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#3572A5;stroke-width:0.500066" id="rect2081-8" width="572.31773" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#e34c26;stroke-width:0.500066" id="rect2081-9" width="508.84189" height="40.005287" x="680.22748" y="127.19685" />
+    <rect style="fill:#f1e05a;stroke-width:0.500066" id="rect2081-10" width="313.85396" height="40.005287" x="680.22748" y="127.19685" />
     <circle style="fill:#cccccc;stroke-width:0.500066" id="path2468-11" r="15.001984" cy="433.47726" cx="927.01703" />
     <circle style="fill:#f1e05a;stroke-width:0.500066" id="path2468-10" r="15.001984" cy="222.79048" cx="677.59034" />
     <circle style="fill:#e34c26;stroke-width:0.500066" id="path2468-9" r="15.001984" cy="263.53644" cx="677.59088" />
