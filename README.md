@@ -1,8 +1,8 @@
-## Hi there.
+## Hi, I'm noonomyen (you can call me 'nom').
 
-I am just a computer science student.
+I'm a Computer Science student passionate about high-performance computing, backend development, deep learning, networking, cybersecurity, and low-level software technologies, including software infrastructure and operating systems.
 
-I mostly like to do things on a whim, sometimes I don't even know what I truly enjoy.
+---
 
 [BLOG](https://blog.noonomyen.com/)
 
