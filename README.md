@@ -4,6 +4,6 @@ I'm a Computer Science student passionate about high-performance computing, back
 
 ---
 
-[BLOG](https://blog.noonomyen.com/)
-
-[My CTF Writeups](https://blog.noonomyen.com/archive/tag/CTF%20Writeup/)
+- [noonomyen](https://noonomyen.com/)
+- [Blog](https://blog.noonomyen.com/)
+- [CTF Writeups](https://blog.noonomyen.com/archive/tag/CTF%20Writeup/)
